@@ -60,7 +60,7 @@
   <a href="https://www.instagram.com/vinyy.sousa?igsh=MWZtNmJ5bG1nM242YQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
   </a>
-  <a href="11911946506" target="_blank">
+  <a href="http://wa.me/+5511911946506" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="whatsapp logo"  />
   </a>
 

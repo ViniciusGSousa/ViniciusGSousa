@@ -39,7 +39,7 @@
 
 ## Sobre mim
 
-<img align="right" height="232" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5sdzR3MHhvMTdhd2JoOWZmOWpveHJ2MWF3enBjMzR3c3BudHN3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lAS0WbZwT9Loksr3gq/giphy.gif"  />
+<img align="right" height="232" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
 
 <div align="left" width="100" height="300">  
   Formado no ensino médio e técnico de Informática para a Internet pelo Instituto Federal de São Paulo como aluno pesquisador na área de tecnologia, sustentabilidade e gamificação. Atualmente graduando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste, onde faço parte do grupo de estudos do laboratótio de Python.

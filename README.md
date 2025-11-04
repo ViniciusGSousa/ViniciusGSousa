@@ -31,7 +31,7 @@
 
 ## Sobre mim
 
-<img align="right" height="252" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
+<img align="right" height="245" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
 
 <div align="left" width="100" height="300">  
   Me chamo Vinicius Gouveia, sou um Desenvolvedor e Análista de Software em formação, dedicado ao estudo de tecnologias e a área de pesquisa acadêmica. Já atuei como aluno pesquisaor e atualmente sou monitor da área técnica da faculdade que estou cursando

@@ -31,12 +31,21 @@
 
 ## Sobre mim
 
-<img align="right" height="232" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
+<img align="right" height="252" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
 
 <div align="left" width="100" height="300">  
-  Me chamo Vinicius Gouveia, sou formado no ensino médio e técnico de Informática para a Internet pelo Instituto Federal de São Paulo como aluno pesquisador na área de tecnologia, sustentabilidade e gamificação. Atualmente graduando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste, onde sou monitor da área técnica.
-</br>
-  Possuo uma alta capacidade de aprendizado e compreensão de novas tecnologias e ferramentas, de forma rápida e autonoma, desenvolvida durante a realização dos projetos que liderei, no qual construi também uma aptidão para o trabalho em equipe, compartilhamento de conhecimentos e liderança.
+  Me chamo Vinicius Gouveia, sou um Desenvolvedor e Análista de Software em formação, dedicado ao estudo de tecnologias e a área de pesquisa acadêmica. Já atuei como aluno pesquisaor e atualmente sou monitor da área técnica da faculdade que estou cursando
+  
+  <br>
+  <br>
+  
+  **Formação**
+  <br>
+  **FATEC -** Análise e Desenvolvimento de Sistemas
+  <br> 
+  **IFSP -** Informática para Internet
+  <br>
+  **WISE UP -** Curso de Inglês
 </div>
 
 ###

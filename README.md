@@ -61,4 +61,12 @@
     <img src="https://komarev.com/ghpvc/?username=ViniciusGSousa&color=6A5ACD" height="100" alt="Profile views" />
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>

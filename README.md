@@ -41,7 +41,7 @@
   
   **Formação**
   <br>
-  **FATEC -** Análise e Desenvolvimento de Sistemas
+  **FATEC -** Análise e Desenvolvimento de Sistemas (2° semestre cursando)
   <br> 
   **IFSP -** Informática para Internet
   <br>

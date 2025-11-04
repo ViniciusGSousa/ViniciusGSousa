@@ -4,10 +4,6 @@
 
 ###
 
-</br>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   <img width="12" />
@@ -31,13 +27,14 @@
 </div>
 
 ###
+<br>
 
 ## Sobre mim
 
 <img align="right" height="232" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyMG9nMWJmZDluczZsOHpoaXJhYWo0ZmhxbHFpYjJyNDc3bjFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KSsGnuwMecqxVDY8zJ/giphy.gif"  />
 
 <div align="left" width="100" height="300">  
-  Formado no ensino médio e técnico de Informática para a Internet pelo Instituto Federal de São Paulo como aluno pesquisador na área de tecnologia, sustentabilidade e gamificação. Atualmente graduando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste, onde faço parte do grupo de estudos do laboratótio de Python.
+  Me chamo Vinicius Gouveia, sou formado no ensino médio e técnico de Informática para a Internet pelo Instituto Federal de São Paulo como aluno pesquisador na área de tecnologia, sustentabilidade e gamificação. Atualmente graduando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste, onde sou monitor da área técnica.
 </br>
   Possuo uma alta capacidade de aprendizado e compreensão de novas tecnologias e ferramentas, de forma rápida e autonoma, desenvolvida durante a realização dos projetos que liderei, no qual construi também uma aptidão para o trabalho em equipe, compartilhamento de conhecimentos e liderança.
 </div>
@@ -53,20 +50,39 @@
 
 </div>
 
-###
-
 ---
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ViniciusGSousa&color=6A5ACD" height="100" alt="Profile views" />
-</div>
-
+## Hard Skills
+- **Linguagens de Programação -** (Java, Python, Assembly)
+- **Desenvolvimento Web -** (HTML5, CSS3, JavaScript, PHP)
+- **Banco de Dados -** (MySQL, SQLServer)
+- **Desenvolvimento Mobile -** (Android Studio, AppCode)
+- **Versionamento de Codigo -** (Git, GitHub, GitLab)
 ###
+
+## Soft Skills
+- **Identificação e Resolução de problemas -**  Habilidades desenvolvidas por meio de oficinas em projetos e atuando como monitor
+- **Comunicação e Expressão -** Comprovadas por participações em congressos e apresentações de projetos
+- **Trabalho em Equipe -** Liderando projetos durante 3 anos, desenvolvi noções para apoio do time e melhoria contínua dos processos
+- **Organização -** Organização de equipe e parametrização de códigos para obtenção de soluções simples e efetivas
+- **Aprendizado autonomo -** Capacidade de compreender e processar ideias e ferramentas complexas rapidamente, de forma autonoma
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniciusGSousa/ViniciusGSousa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniciusGSousa/ViniciusGSousa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ViniciusGSousa/ViniciusGSousa/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="left" width="100" height="300">
+  
+</div>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusGSousa&color=6A5ACD" height="100" alt="Profile views" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
